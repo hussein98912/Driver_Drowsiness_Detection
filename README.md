@@ -72,11 +72,11 @@ Here are a few examples from the detection system:
 
 ### 🟡 Drowsy Driver Detection
 
-![Drowsy Driver](images/Screenshot%202025-06-12%20153717.png)
+![Drowsy Driver](images/Screenshot%202025-06-12%20153731.png)
 
 ### 🟢 Awake Driver Detection
 
-![Awake Driver](images/Screenshot%202025-06-12%20153731.png)
+![Awake Driver](images/Screenshot%202025-06-12%20153717.png)
 
 ---
 
