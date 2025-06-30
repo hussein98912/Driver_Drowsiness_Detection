@@ -66,6 +66,17 @@ cd driver-drowsiness-detection
 pip install -r requirements.txt
 python detect_drowsiness.py
 ```
+## 📸 Sample Images
+
+Here are a few examples from the detection system:
+
+### 🟡 Drowsy Driver Detection
+
+![Drowsy Driver](images/Screenshot%202025-06-12%20153717.png)
+
+### 🟢 Awake Driver Detection
+
+![Awake Driver](images/Screenshot%202025-06-12%20153731.png)
 
 ---
 
